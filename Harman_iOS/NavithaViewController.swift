@@ -24,6 +24,10 @@ class NavithaViewController: UIViewController {
     func testMethod() {
         
     }
+    
+    func testMethod2(){
+        
+    }
     /*
     // MARK: - Navigation
 
