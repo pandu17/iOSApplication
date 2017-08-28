@@ -19,5 +19,9 @@ class NavithaViewController: UIViewController {
     func someMethod(){
         
     }
+    
+    func secondMethod(){
+        
+    }
 
 }
