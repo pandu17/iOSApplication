@@ -22,4 +22,9 @@ class NavithaViewController: UIViewController {
     func myMethod(){
         
     }
+    
+    func secondMethod(){
+        
+    }
+
 }
