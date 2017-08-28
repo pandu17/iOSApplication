@@ -19,5 +19,7 @@ class NavithaViewController: UIViewController {
     func someMethod(){
         
     }
-
+    func myMethod(){
+        
+    }
 }
