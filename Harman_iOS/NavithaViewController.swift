@@ -10,11 +10,9 @@ import UIKit
 
 class NavithaViewController: UIViewController {
 
-    let name = "navitha"
-    
     override func viewDidLoad() {
         super.viewDidLoad()
-print(name)
+
         // Do any additional setup after loading the view.
     }
 
